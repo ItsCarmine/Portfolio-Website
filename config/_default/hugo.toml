@@ -1,5 +1,5 @@
 ### General
-baseURL = 'https://www.shorette.dev/' # Enter your full production URL
+baseURL = 'https://master--jovial-pavlova-ae4a71.netlify.app/' # Enter your full production URL
 languageCode = 'en-us' # Default
 timeZone = 'America/Chicago' # IANA timezone https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 title = 'Shorette.dev' # Site title used throughout site
